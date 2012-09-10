@@ -20,3 +20,4 @@ Esta fusión de orientación a objetos y la programación funcional en Scala se 
 
 Desarrollar en Scala hace que el código de programación sea mas legible, conciso y maneable.
 
+Nociones básicas [capitulo 1](https://github.com/aantivero/programacion-scala/blob/master/capitulo-01/01.md)
